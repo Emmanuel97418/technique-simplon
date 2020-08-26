@@ -2,7 +2,7 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=127.0.0.1;dbname=yii2basic;port=3306',
+    'dsn' => 'mysql:host=db-osc-fr1.scalingo.com;dbname=yii2basic;port=3306',
     'username' => 'administrateur',
     'password' => 'administrateur',
     'charset' => 'utf8',
