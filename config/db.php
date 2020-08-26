@@ -2,9 +2,9 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=db-osc-fr1.scalingo.com;dbname=yii2basic;port=3306',
-    'username' => 'administrateur',
-    'password' => 'administrateur',
+    'dsn' => 'mysql:host=localhost;dbname=yii2basic;port=3306',
+    'username' => 'root',
+    'password' => '',
     'charset' => 'utf8',
 
     # Schema cache options (for production environment)
