@@ -2,7 +2,7 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=db-osc-fr1.scalingo.com;dbname=yii2basic',
+    'dsn' => 'mysql:host=mysql;dbname=yii2basic',
     'username' => 'emmanuel97418',
     'password' => 'testsimplon1',
     'charset' => 'utf8',
